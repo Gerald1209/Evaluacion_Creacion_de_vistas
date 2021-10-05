@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Evaluacion Creacion de Vistas</string>
+    <string name="msg1">Nombe del Producto</string>
+    <string name="msg2">Precio</string>
+    <string name="msg3">Cantidad</string>
+    <string name="btnMont">Monto a Pagar</string>
+</resources>
